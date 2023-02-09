@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+h1,
+h2,
+h3,
+p,
+ul,
+a,
+blockquote {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  text-decoration: none;
+  display: block;
+}
+a{
+  color: inherit;
+}
